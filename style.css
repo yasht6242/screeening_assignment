@@ -152,6 +152,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: 50px;
 }
 .bundle_save_gray_line{
   width: 93.99552917480504px;
@@ -206,6 +207,10 @@ justify-content: center;
 }
 .product2_discount{
   margin-left: 148px;
+}
+.product2_discount_percentage{
+  margin-left: 19px;
+    margin-top: 2px;
 }
 .product2_item_box{
   display: flex;
